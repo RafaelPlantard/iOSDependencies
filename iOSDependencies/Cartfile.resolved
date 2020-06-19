@@ -1,0 +1,4 @@
+github "adamwaite/Validator" "v3.2.1"
+github "evgenyneu/Cosmos" "22.1.0"
+github "hackiftekhar/IQKeyboardManager" "v6.5.5"
+github "pkluz/PKHUD" "5.3.0"
